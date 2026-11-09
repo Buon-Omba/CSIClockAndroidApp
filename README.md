@@ -1,4 +1,5 @@
 # CSI CLOCK
-A simple Kotlin Clock who is used for biking uphill time trial. Now it's only for android.
-Next Step:
+A simple Kotlin clock used for uphill bike time trials. For now it's Android-only.
+
+Next steps:
 - Create a Windows version
